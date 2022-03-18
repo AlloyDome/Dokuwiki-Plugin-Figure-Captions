@@ -1,0 +1,7 @@
+base   figcap
+author 
+email  
+date   
+name   Figure captions
+desc   
+url    
